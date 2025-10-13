@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title><%= title %></title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+  <%- include('partials/header', { title, page }) %>
+
+  <main>
+    <%- include(body) %>
+  </main>
+
+  <% if (page === 'projects') { %>
+      <script src="/js/projects.js"></script>
+  <% } else { %>
+      <script src="/js/main.js" type="module"></script>
+  <% } %>
+  
+</body>
+</html>

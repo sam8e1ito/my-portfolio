@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Basic Calculator",
+        "description":["HTML", "CSS", "JS"],
+        "link":"https://sam8e1ito.github.io/calculator/"
+    },
+    {
+        "title":"Takashi`s Portfolio",
+        "description":["HTML", "SCSS", "JS"],
+        "link":"https://null6zwei9.web.app"
+    },
+    {
+        "title":"ESV Hansa Luebeck Ringen Website",
+        "description":["HTML", "SCSS", "JS"],
+        "link":"https://esv-hansa-luebeck-ringen.de"
+    },
+    {
+        "title":"Personal Portfolio",
+        "description":["EJS", "JS", "Node.js", "express.js", "SCSS"],
+        "link":"/"
+    }
+]

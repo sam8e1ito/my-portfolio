@@ -1,0 +1,13 @@
+<nav>
+    <div class="navbar">
+        <span>&lt;</span>MyPortfolio<span>/&gt;</span>
+    </div>
+
+    <% if (page === 'projects') { %>
+        <a href="/" class="nav-link">Home</a>
+    <% } else { %>
+        <a href="#hero" class="nav-link">Home</a>
+        <a href="#my-projects" class="nav-link">My Projects</a>
+        <a href="#about-me" class="nav-link">About Me</a>
+    <% } %>
+</nav>

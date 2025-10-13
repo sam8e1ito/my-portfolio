@@ -1,0 +1,46 @@
+.project-card{
+    width: 800px;
+    border: 1px solid $color-text-primary;
+    pointer-events: all;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.project-card:hover{
+    transform: translateY(2px);
+    z-index: 1000;
+}
+
+.infoBlock{display: none;}
+.infoBlock.active{
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    margin: auto;
+    background: $color-bg-secondary;
+    border: 1px solid $color-text-primary;
+    z-index: 100;
+    width: 100%;
+    padding: 20px;
+    ul{
+        list-style: none;
+        text-align: start;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start; 
+        text-align: center; 
+        width: 100%; 
+        left: 0; 
+        right: 0; 
+        margin: auto;
+    }
+    ul li{
+        flex: 0 0 auto;
+        padding: 5px 10px;
+        text-align: start;
+        white-space: nowrap;
+    }
+}

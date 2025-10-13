@@ -1,0 +1,6 @@
+{
+  "frontend": ["HTML", "CSS", "SCSS", "JavaScript", "Angular"],
+  "backend": ["Node.js", "Express.js", "EJS"],
+  "databases": ["SQLite"],
+  "tools": ["Git", "GitHub"]
+}

@@ -1,0 +1,79 @@
+// === glow animation ===
+@keyframes glow {
+  0%, 100% {
+    color: $color-text-primary;
+  }
+  50% {
+    color: $color-text-secondary;
+  }
+}
+@keyframes glowText {
+  0%, 100% {
+    color: $color-text-secondary;
+  }
+  50% {
+    color: $color-text-primary;
+  }
+}
+@keyframes brokenGlow {
+  0%{
+    color: $color-text-primary;
+  }
+  17%{
+    color: $color-text-primary;
+  }
+  18%{
+    color: $color-text-secondary;
+  }
+  20%{
+    color: $color-text-primary;
+  }
+  21%{
+    color: $color-text-primary;
+  }
+  26%{
+    color: $color-text-primary;
+  }
+  40%{
+    color: $color-text-primary;
+  }
+  41%{
+    color: $color-text-primary;
+  }
+  46%{
+    color: $color-text-primary;
+  }
+  49%{
+    color: $color-text-primary;
+  }
+  50%{
+    color: $color-text-primary;
+  }
+  52%{
+    color: $color-text-primary;
+  }
+  53%{
+    color: $color-text-primary;
+  }
+  80%{
+    color: $color-text-primary;
+  }
+  81%{
+    color: $color-bg;
+  }
+  83%{
+    color: $color-text-secondary;
+  }
+  85%{
+    color: $color-text-primary;
+  }
+  87%{
+    color: $color-text-primary;
+  }
+  89%{
+    color: $color-text-primary;
+  }
+  100% {
+    color: $color-text-primary;
+  }
+}
