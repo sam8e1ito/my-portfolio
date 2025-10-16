@@ -1,5 +1,10 @@
 [
     {
+        "title":"To-Do List",
+        "description":["HTML", "CSS", "JS"],
+        "link":"https://sam8e1ito.github.io/to-do/"
+    },
+    {
         "title":"Basic Calculator",
         "description":["HTML", "CSS", "JS"],
         "link":"https://sam8e1ito.github.io/calculator/"
