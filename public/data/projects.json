@@ -1,5 +1,10 @@
 [
     {
+        "title":"Weather App",
+        "description":["HTML", "CSS", "JS", "API", "Express.js", "Node.js", "Dotenv", "Netlify"],
+        "link":"https://sam8e1itos-weather-app.netlify.app/"
+    },
+    {
         "title":"To-Do List",
         "description":["HTML", "CSS", "JS"],
         "link":"https://sam8e1ito.github.io/to-do/"
@@ -21,7 +26,7 @@
     },
     {
         "title":"Personal Portfolio",
-        "description":["EJS", "JS", "Node.js", "express.js", "SCSS"],
+        "description":["EJS", "JS", "Node.js", "Express.js", "SCSS", "Vercel"],
         "link":"/"
     }
 ]
