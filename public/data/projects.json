@@ -1,5 +1,10 @@
 [
     {
+        "title":"Chat App",
+        "description":["HTML", "SCSS", "CSS", "JS", "Firebase", "Real-time Database"],
+        "link":"https://sam8e1itos-weather-app.netlify.app/"
+    },
+    {
         "title":"Weather App",
         "description":["HTML", "CSS", "JS", "API", "Express.js", "Node.js", "Dotenv", "Netlify"],
         "link":"https://sam8e1itos-weather-app.netlify.app/"

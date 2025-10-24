@@ -1,6 +1,6 @@
 {
   "frontend": ["HTML", "CSS", "SCSS", "JavaScript"],
-  "backend": ["Node.js", "Express.js", "EJS", "Dotenv", "API"],
+  "backend": ["Node.js", "Express.js", "EJS", "Dotenv", "API", "fetch"],
   "databases": ["SQLite", "JSON"],
-  "tools": ["Git", "GitHub", "Vercel", "Netlify"]
+  "tools": ["Git", "GitHub", "Vercel", "Netlify", "Firebase"]
 }
