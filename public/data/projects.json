@@ -1,5 +1,10 @@
 [
     {
+        "title":"Countdown App",
+        "description":["HTML", "SCSS", "CSS", "JS"],
+        "link":"https://sam8e1ito.github.io/countdown-app/"
+    },
+    {
         "title":"Chat App",
         "description":["HTML", "SCSS", "CSS", "JS", "Firebase", "Real-time Database"],
         "link":"https://chatsam8e1ito.web.app/"
