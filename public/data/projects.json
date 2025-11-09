@@ -1,5 +1,10 @@
 [
     {
+        "title":"Fruit Slice Game",
+        "description":["HTML", "CSS", "JS"],
+        "link":"https://sam8e1ito.github.io/fruit-slice-game/"
+    },
+    {
         "title":"Rock Paper Scissors Game",
         "description":["HTML", "SCSS", "CSS", "JS"],
         "link":"https://sam8e1ito.github.io/rock-paper-scissors/"
